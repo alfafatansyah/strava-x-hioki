@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.5",
+  "release_date": "2026-02-12",
+  "changelog": [
+    "Add auto update notification"
+  ],
+  "download_url": "https://github.com/USERNAME/gps-visualizer-updater/raw/main/GPS_Visualizer_v1.5.exe"
+}
