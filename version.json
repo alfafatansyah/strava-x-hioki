@@ -1,8 +1,7 @@
 {
   "latest_version": "1.5",
-  "release_date": "2026-02-12",
+  "download_url": "https://github.com/alfafatansyah/strava-x-hioki/releases/latest",
   "changelog": [
-    "Add auto update notification"
-  ],
-  "download_url": "https://raw.githubusercontent.com/alfafatansyah/strava-x-hioki/main/GPS_Visualizer_v1.5.exe"
+    "Improve update checker"
+  ]
 }
