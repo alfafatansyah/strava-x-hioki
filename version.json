@@ -1,7 +1,8 @@
 {
   "latest_version": "1.5",
-  "download_url": "https://github.com/alfafatansyah/strava-x-hioki/releases/latest",
+  "release_date": "2026-02-12",
   "changelog": [
-    "Improve update checker"
-  ]
+    "Background update check"
+  ],
+  "download_url": "https://drive.google.com/file/d/1AbCDeFgHIJKlmNOPqrstu/view?usp=sharing"
 }
